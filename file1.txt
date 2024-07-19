@@ -1,0 +1,4 @@
+This is the content of file1
+[A
+by the user
+permission is visible
